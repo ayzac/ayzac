@@ -2,6 +2,13 @@
 
 <h3 align="center">Full Stack Developer</h3>
 
+<p align="center">
+  Desarrollo aplicaciones web y sistemas Full Stack, con especial interés en
+  backend, arquitectura y creación de soluciones útiles y mantenibles.
+</p>
+
+---
+
 ## 👨‍💻 Sobre mí
 
 - 💼 Desarrollador Full Stack enfocado en aplicaciones web y sistemas de gestión.
@@ -10,22 +17,38 @@
 - 🔐 Implementación de autenticación y autorización basada en **JWT y roles**.
 - 🐧 Experiencia desplegando y manteniendo aplicaciones en servidores **Linux y Apache**.
 - 🧩 Interesado en arquitectura de software, backend y construcción de soluciones escalables y mantenibles.
-- 🌱 Actualmente ampliando mis conocimientos en **Angular, TypeScript y Docker**.
+- 🌱 Actualmente ampliando mis conocimientos en **Go, TypeScript, Angular y Docker**.
 - 📚 En constante aprendizaje y mejora de buenas prácticas de desarrollo.
 
 ---
 
-## 🛠️ Lenguajes y tecnologías
+## 🛠️ Tecnologías
+
+### 💻 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,html,css,tailwind,astro" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,astro,vite" />
 </p>
 
-### ⚙️ Herramientas y entorno
+### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+### 🗄️ Bases de datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Herramientas y entorno
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux,bash" />
+</p>
+
+`Insomnia` · `REST APIs` · `JWT` · `Apache` · `SSH`
 
 ### 🎨 Diseño y UI/UX
 
@@ -36,7 +59,7 @@
 ### 📚 Actualmente aprendiendo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,docker" />
+  <img src="https://skillicons.dev/icons?i=go,ts,angular,docker" />
 </p>
 
 ---
@@ -54,7 +77,7 @@ Mi experiencia incluye proyectos relacionados con:
 - 🛒 **Procesos de compras, requisiciones y cotizaciones**
 - 🔐 **Autenticación, roles y control de acceso**
 - 🔌 **Diseño y desarrollo de APIs REST**
-- 🗄️ **Modelado y gestión de bases de datos relacionales**
+- 🗄️ **Modelado y gestión de bases de datos**
 - 🌐 **Sitios web y aplicaciones Full Stack**
 - 🚀 **Despliegue y mantenimiento de aplicaciones en servidores Linux**
 - 🧪 **Prototipos, herramientas personales y proyectos experimentales**
@@ -65,7 +88,7 @@ Mi experiencia incluye proyectos relacionados con:
 
 Actualmente estoy profundizando en:
 
-`Go` · `TypeScript` · `Docker` · `Arquitectura de Software`
+`Go` · `TypeScript` · `Angular` · `Docker` · `Arquitectura de Software`
 
 Con especial interés en mejorar la arquitectura, seguridad, escalabilidad
 y mantenibilidad de las aplicaciones que desarrollo.
@@ -77,8 +100,8 @@ y mantenibilidad de las aplicaciones que desarrollo.
 ```text
 Frontend     React · JavaScript · Tailwind CSS · Astro
 Backend      Node.js · Express · REST APIs
-Database     MySQL
+Database     MySQL · MongoDB
 Auth         JWT · Roles & Permissions
-DevOps       Linux · Apache · Git
-Tools        GitHub · VS Code · Postman · Vite · npm
-Learning     Angular · TypeScript · Docker
+DevOps       Linux · Apache · SSH
+Tools        Git · GitHub · VS Code · Postman · Insomnia · Vite · npm
+Learning     Go · TypeScript · Angular · Docker
