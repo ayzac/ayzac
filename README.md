@@ -48,7 +48,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux,bash" />
 </p>
 
-`Insomnia` · `REST APIs` · `JWT` · `Apache` · `SSH`
+<p align="left">
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
 ### 🎨 Diseño y UI/UX
 
