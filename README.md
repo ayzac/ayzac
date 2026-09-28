@@ -48,31 +48,36 @@
 
 ## 🚀 Proyectos destacados
 
-### 🛡️ Verifica Seguro
+## 🧪 Proyectos y experimentación
 
-Aplicación web orientada al análisis de mensajes y correos sospechosos para identificar posibles señales de:
+Este perfil también funciona como mi espacio personal para explorar tecnologías,
+crear prototipos y desarrollar proyectos independientes.
 
-- Phishing
-- Fraude
-- Extorsión
-- Suplantación
-- Enlaces sospechosos
-- Solicitudes de información sensible
+Aquí encontrarás proyectos relacionados con:
 
-**Stack**
-
-`React` · `Tailwind CSS` · `Node.js` · `Express`
+- 🧪 Experimentación con nuevas tecnologías
+- 🏋️ Aplicaciones y herramientas personales
+- 🎓 Proyectos académicos
+- 🌐 Desarrollo y prototipos web
+- 🐍 Primeros proyectos y prácticas con Python / Django
+- 💡 Ideas y pequeños proyectos en desarrollo
 
 ---
 
-### 📦 SIMCO
+## 🌱 Actualmente explorando
 
-Sistema web de gestión de compras desarrollado como proyecto universitario.
+Actualmente estoy ampliando mis conocimientos y experimentando con:
 
-**Stack**
+`Angular` · `TypeScript` · `Arquitectura de Software` · `Docker`
 
-`JavaScript` · `Node.js` · `MySQL`
+Me interesa especialmente mejorar la estructura, escalabilidad y mantenibilidad
+de las aplicaciones que desarrollo.
 
+---
+
+<p align="center">
+  <i>Construyendo, aprendiendo y mejorando proyecto a proyecto.</i>
+</p>
 ---
 
 ## 💻 Stack principal
