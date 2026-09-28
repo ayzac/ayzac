@@ -1,3 +1,7 @@
+<h1 align="center">Hola, soy Isaac 👋</h1>
+
+<h3 align="center">Full Stack Developer</h3>
+
 ## 👨‍💻 Sobre mí
 
 - 💼 Desarrollador Full Stack enfocado en aplicaciones web y sistemas de gestión.
@@ -61,7 +65,7 @@ Mi experiencia incluye proyectos relacionados con:
 
 Actualmente estoy profundizando en:
 
-`Angular` · `TypeScript` · `Docker` · `Arquitectura de Software`
+`Go` · `TypeScript` · `Docker` · `Arquitectura de Software`
 
 Con especial interés en mejorar la arquitectura, seguridad, escalabilidad
 y mantenibilidad de las aplicaciones que desarrollo.
